@@ -1,0 +1,16 @@
+run:
+Nhap ho va ten: HO THI KIM NGAN
+Nhap ma so sinh vien: 0800
+Nhap que quan: DA NANG
+Nhap GPA: 2
+Nhap nganh hoc (major): HE THONG THONG TIN QUAN LY
+Co hoc bong khong? (true/false): FALSE
+
+----- THONG TIN SINH VIEN -----
+Ho va ten: HO THI KIM NGAN
+Ma so sinh vien: 800
+Que quan: DA NANG
+GPA: 2.0
+Nganh hoc: HE THONG THONG TIN QUAN LY
+Co hoc bong: false
+BUILD SUCCESSFUL (total time: 47 seconds)
